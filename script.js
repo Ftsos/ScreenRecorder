@@ -5,6 +5,7 @@
  * usando MediaRecorder y getUserMedia
  * 
  * @author parzibyte
+ * @author ftsos
  * @see https://parzibyte.me/blog
  */
 const init = () => {
